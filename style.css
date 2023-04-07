@@ -1,0 +1,48 @@
+body{
+    background-image:url("lavenderflowers.jpg") ;
+    text-align: center;
+}
+
+#Heading{
+    color: white;
+    font-size: 50px;
+}
+
+
+#Instructions{
+    color: aqua;
+}   
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+#Div1{
+    background-color: purple;
+}
+
+#login_button{
+    background-color: rgb(243, 106, 243);
+}
+#user_name{
+    color: purple;
+}
+#msg{
+    width: 950px;
+}
+#msg_icon{
+    height: 60px;
+    width: 60;
+}
+#heading{
+    color: lavenderblush;
+}
+#rthba{
+    color: lightcyan;
+}
